@@ -1,0 +1,49 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+	<title>da-hero-image-back</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #a0c6f4 } 
+		.s2 { fill: none;stroke: #2a1e17;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+		.s3 { fill: #ffffff;stroke: #2a1e17;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+		.s4 { fill: #ff6d66 } 
+		.s5 { fill: #fad8b0 } 
+		.s6 { fill: #91ba83 } 
+		.s7 { fill: #f9865f } 
+	</style>
+	<g id="OBJECTS">
+		<g id="&lt;Clip Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s0" d="m679.9 368.7c-64.8-60.7-140.8-76.4-160.8-79.6 13.5-36.5 34.4-90.7 39.6-98.7 1.7-0.2 5.1-0.6 10.1-0.6 14.8 0 46.3 3.1 92 23.6 65.9 29.7 83.5 63.1 87 71.2z"/>
+						<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m662.4 209.8c77.9 35 89.9 75.6 89.9 75.6l-72.1 89.2c-75.5-72.9-166.6-82.2-166.6-82.2 0 0 38.4-104.2 43.1-105.7 0 0 4.1-0.9 12.1-0.9 16.1 0 47.9 3.5 93.6 24zm-101.2-15.6c-5.5 10.3-21.7 51.6-36.7 91.7 10 1.8 26.5 5.5 46.8 12.7 28.5 10.1 69.8 29.4 108.1 64.3l63.7-78.8c-5.1-10.2-24.4-40.2-84-67-44.9-20.2-75.9-23.3-90.3-23.3-3.3 0-5.9 0.2-7.6 0.4z"/>
+					</g>
+					<path id="&lt;Path&gt;" class="s2" d="m527 300.5c0 0 89.6 9 144.8 59.7"/>
+					<path id="&lt;Path&gt;" class="s1" d="m604.4 296.1l33.4-65 34.3 67.8z"/>
+					<path id="&lt;Path&gt;" class="s2" d="m610.9 295.2l33.4-65 34.3 67.7z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s2" d="m579.5 181.9c0 0 100.4 9 162.9 83.3"/>
+			</g>
+			<g id="&lt;Group&gt;">
+			</g>
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m709.1 296l9.8-13.6c1-1.4 2.9-1.6 4.3-0.6l58.7 47c1.2 1 1.5 2.8 0.5 4.1l-9 12.2c-0.9 1.3-2.8 1.6-4.1 0.6l-59.6-45.6c-1.3-1-1.5-2.8-0.6-4.1z"/>
+					<path id="&lt;Path&gt;" class="s4" d="m722.6 285.9l14.5 12.1-8.5 10.2-14.5-10.2z"/>
+					<path id="&lt;Path&gt;" class="s5" d="m741.7 302.2l14.5 11.9-7.7 9.5-14.5-11.5z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m761 317.8l13.7 11.5-6.9 8.8-14.5-10.1z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s3" d="m832.4 231.3l25.4-3.7c2.6-0.4 4.9 1.4 5.2 4l11.1 114.7c0.3 2.4-1.4 4.6-3.8 4.9l-23 3.1c-2.5 0.4-4.8-1.4-5.1-3.9l-13.6-114.1c-0.3-2.4 1.4-4.6 3.8-5z"/>
+					<path id="&lt;Path&gt;" class="s4" d="m857.9 235.4l2.2 28.7-20.3 1.6-4.3-26.7z"/>
+					<path id="&lt;Path&gt;" class="s6" d="m860.3 273.7l2.6 28.6-18.7 1.7-2.9-28.2z"/>
+					<path id="&lt;Path&gt;" class="s5" d="m863.8 311.6l2.1 27.2-17.1 1.9-4.3-26.7z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s3" d="m801.1 256.1l25.8-9.6c2-0.7 4.1 0.3 4.7 2.3l35.3 111.6c0.6 1.8-0.4 3.8-2.2 4.5l-23.5 8.4c-1.9 0.7-4-0.3-4.6-2.2l-37.6-110.5c-0.7-1.9 0.3-3.9 2.1-4.5z"/>
+				<path id="&lt;Path&gt;" class="s1" d="m827.7 254.5l8.2 27.6-19.6 5.7-9.7-25.2z"/>
+				<path id="&lt;Path&gt;" class="s7" d="m838.1 291.4l8.4 27.5-18 5.5-8.6-26.9z"/>
+				<path id="&lt;Path&gt;" class="s5" d="m849.4 327.8l7.6 26.2-16.3 5.4-9.7-25.2z"/>
+			</g>
+		</g>
+	</g>
+</svg>
